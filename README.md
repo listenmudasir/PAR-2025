@@ -41,18 +41,3 @@ We combine CLIP embeddings, regional features, and graph-based reasoning for rob
 
 ---
 
-## 📊 Key Results
-
-Our framework improves PAR performance on major benchmarks:
-
-| Dataset | mA | Accuracy | F1 | AUC |
-|--------|----|----------|----|-----|
-| **RAPv2** | ↑ | ↑ | ↑ | ↑ |
-| **PA-100K** | ↑ | ↑ | ↑ | ↑ |
-
-(*Add your actual numbers here*)
-
----
-
-## 🧩 Repository Structure
-
